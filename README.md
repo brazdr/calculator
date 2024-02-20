@@ -19,8 +19,9 @@
 
 **Como Utilizar:**
 
-
-* Basta acessar o link da calculadora aqui, onde você será recebido com uma interface amigável e pronta para começar a fazer seus cálculos. É fácil de usar e pode ajudar em qualquer situação em que cálculos rápidos sejam necessários.
+* Clone este repositório em sua máquina local.
+* Abra o arquivo index.html em seu navegador web preferido.
+* Explore as diferentes funcionalidades da página e divirta-se!
 
 **Contribuição:**
 
