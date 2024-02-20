@@ -1,4 +1,4 @@
-**Calculadora**
+**Descrição do problema**
 
 
 * Este é um projeto de uma calculadora simples desenvolvida utilizando HTML, CSS e JavaScript. É uma ferramenta básica para cálculos matemáticos do dia a dia, projetada para ser intuitiva e fácil de usar.
